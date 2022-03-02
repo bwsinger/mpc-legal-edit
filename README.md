@@ -11,7 +11,13 @@ https://cardconjurer.com/creator/
 </div>
 
 ## Operation
-Requires Python3
+Requires Python3 and Pillow (https://pillow.readthedocs.io/en/stable/index.html)
+
+### Install Pillow
+```
+python3 -m pip install --upgrade pip
+python3 -m pip install --upgrade Pillow
+```
 
 Example:
 ```
