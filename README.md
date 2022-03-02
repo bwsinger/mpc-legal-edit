@@ -21,6 +21,6 @@ python3 -m pip install --upgrade Pillow
 
 Example:
 ```
-~ python3 remove_legal.py path/to/proxy/images/
+python3 remove_legal.py path/to/proxy/images/
 ```
 Creates a new directory `path/to/proxy/images/removed_legal` (can be changed with `-o` parameter) with the edited images.
